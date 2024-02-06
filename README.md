@@ -1,9 +1,9 @@
-# TO-DO List App
+# TO-DO List Web App
 
-Welcome to the TO-DO List app! This unique application is the result of creative and original design, developed from scratch without external influences. Reflecting my coding expertise, the app provides a distinctive user experience. Currently, the to-do list data is stored locally within the browser.
+Welcome to the TO-DO List Web app! This unique application is the result of creative and original design, developed from scratch without external influences. Reflecting my coding expertise, the website provides a distinctive user experience. Currently, the to-do list data is stored locally within the browser.
 
 ## Try it Yourself
-Explore the TO-DO List app at [https://tdlbyhemang.netlify.app/](https://tdlbyhemang.netlify.app/)
+Explore the TO-DO List web app at [https://tdlbyhemang.netlify.app/](https://tdlbyhemang.netlify.app/)
 
 ## Screenshots
 1. **Main Interface of TO-DO List App**
