@@ -10,7 +10,7 @@ Explore the TO-DO List web app at [https://tdlbyhemang.netlify.app/](https://tdl
    ![TO-DO List App](https://github.com/hemang111/TO-DO-List/assets/85540417/66a9bfb7-36e2-470f-9432-449b0cbb53e9)
 
 
-2. **Ul Element with Appended Li Items**
+2. **Ul Element where Li Items will Append**
    ![The Ul where all Li will append](https://github.com/hemang111/TO-DO-List/assets/85540417/eee90531-eda1-46b3-b9f5-c5bec842486a)
 
 
