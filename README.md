@@ -7,10 +7,12 @@ Explore the TO-DO List app at [https://tdlbyhemang.netlify.app/](https://tdlbyhe
 
 ## Screenshots
 1. **Main Interface of TO-DO List App**
-   ![TO-DO List App](https://github.com/hemang111/TO-DO-List/assets/85540417/29b05531-e4d7-48ec-a3f8-f9eaef33df1a)
+   ![TO-DO List App]!(https://github.com/hemang111/TO-DO-List/assets/85540417/66a9bfb7-36e2-470f-9432-449b0cbb53e9)
+
 
 2. **Ul Element with Appended Li Items**
-   ![The Ul where all Li are append](https://github.com/hemang111/TO-DO-List/assets/85540417/3e14456e-5625-486b-b89a-d6660e154a8a)
+   ![The Ul where all Li are append](https://github.com/hemang111/TO-DO-List/assets/85540417/eee90531-eda1-46b3-b9f5-c5bec842486a)
+
 
 ## Features
 - Unique functionality crafted from original ideas
