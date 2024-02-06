@@ -51,7 +51,7 @@ document.getElementById('forms').addEventListener('submit', function (event) {
 datePicker.setAttribute('min', currentDate); ...
 ```
 
-Feel free to dive into the [full JavaScript code]() for a detailed understanding of the app's functionality.
+Feel free to dive into the [full JavaScript code](https://github.com/hemang111/TO-DO-List/blob/main/script.js) for a detailed understanding of the app's functionality.
 
 ## How to Use
 1. Visit [https://tdlbyhemang.netlify.app/](https://tdlbyhemang.netlify.app/)
