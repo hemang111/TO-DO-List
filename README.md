@@ -18,7 +18,7 @@ Explore the TO-DO List web app at [https://tdlbyhemang.netlify.app/](https://tdl
 - Unique functionality crafted from original ideas
 - Local storage for seamless data management
 - User-friendly interface for an intuitive experience
-
+- More Features like: Task status, Task priority, and sub-task will be added. 
 ## JavaScript Implementation
 The core functionality of the TO-DO List app is implemented using JavaScript. Below is an overview of the key JavaScript code responsible for various aspects of the app:
 
